@@ -1,5 +1,6 @@
 # About
 This is a fork of Luke Smith's dwm config based on suckless' dwm.
+
 all keybindings are in config.h
 
 ## Installation
